@@ -29,7 +29,7 @@ builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowFrontend",
         builder => builder
-            .WithOrigins("https://pharmacy.local","https://darman.tamin.ir", "https://newstatisticsreports.ttac.ir")
+            .WithOrigins("https://pharmacy.local","https://website1.com", "https://website2.ir")
             .AllowAnyHeader()
             .AllowAnyMethod()
             .AllowCredentials()
