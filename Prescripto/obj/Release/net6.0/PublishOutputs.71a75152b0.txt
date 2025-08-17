@@ -1,0 +1,17 @@
+E:\Prescripto\Prescripto\obj\Release\net6.0\PubTmp\Out\Prescripto.exe
+E:\Prescripto\Prescripto\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+E:\Prescripto\Prescripto\obj\Release\net6.0\PubTmp\Out\appsettings.json
+E:\Prescripto\Prescripto\obj\Release\net6.0\PubTmp\Out\Prescripto.dll
+E:\Prescripto\Prescripto\obj\Release\net6.0\PubTmp\Out\Prescripto.deps.json
+E:\Prescripto\Prescripto\obj\Release\net6.0\PubTmp\Out\Prescripto.runtimeconfig.json
+E:\Prescripto\Prescripto\obj\Release\net6.0\PubTmp\Out\Prescripto.pdb
+E:\Prescripto\Prescripto\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+E:\Prescripto\Prescripto\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+E:\Prescripto\Prescripto\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Prescripto\Prescripto\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Prescripto\Prescripto\obj\Release\net6.0\PubTmp\Out\System.Data.SqlClient.dll
+E:\Prescripto\Prescripto\obj\Release\net6.0\PubTmp\Out\runtimes\win-arm64\native\sni.dll
+E:\Prescripto\Prescripto\obj\Release\net6.0\PubTmp\Out\runtimes\win-x64\native\sni.dll
+E:\Prescripto\Prescripto\obj\Release\net6.0\PubTmp\Out\runtimes\win-x86\native\sni.dll
+E:\Prescripto\Prescripto\obj\Release\net6.0\PubTmp\Out\runtimes\unix\lib\net6.0\System.Data.SqlClient.dll
+E:\Prescripto\Prescripto\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\net6.0\System.Data.SqlClient.dll
